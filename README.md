@@ -1,4 +1,4 @@
-# PHP Sql Map Bootstrap
+# PHP sqlmap Bootstrap
 This program functions by parsing php files for query string parameters and generating urls
 containing those parameters to pass into sqlmap. This is an automated way to generate better
 guesses with sqlmap. It isn't perfect because it doesn't do any path analysis to determine sane
